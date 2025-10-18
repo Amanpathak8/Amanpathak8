@@ -29,7 +29,7 @@ Focused on scalable, cloud-based data systems and real-time analytics.
 ---
 
 ## 🌐 Let’s connect!  
-- [LinkedIn](#)  
+- [LinkedIn](https://www.linkedin.com/in/aman-pathak-034967299/)  
 - [GitHub Projects](https://github.com/Amanpathak8?tab=repositories)  
 - 📫 **Amanpathak8802@gmail.com**
 
