@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Aman Pathak
 
-🎓Master’s  Pursuing in Computer Systems | 💡 Aspiring Data Engineer | 🌍 Based in Riga, Latvia  
+🎓Pursuing Master’s in Computer Systems | 💡 Aspiring Data Engineer | 🌍 Based in Riga, Latvia  
 🚀 Exploring Big Data, Cloud, and Real-Time Data Engineering  
 
 ---
